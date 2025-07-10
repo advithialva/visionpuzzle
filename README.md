@@ -2,8 +2,6 @@
 
 An interactive computer vision-based puzzle game that uses real-time hand tracking to let players drag and drop puzzle pieces using their index finger—no mouse or keyboard required. 
 
-This project is built with OpenCV and `cvzone`, showcases gesture-based interaction for immersive experiences.
-
 ---
 
 ## 📌 Project Overview
