@@ -35,8 +35,8 @@ This project is built with OpenCV and `cvzone`, showcases gesture-based interact
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/advithialva/vision-based-puzzle-control
-cd vision-based-puzzle-control
+git clone https://github.com/advithialva/vision-based-puzzle-assembly
+cd vision-based-puzzle-assembly
 ```
 
 ### 2. Install Dependencies
