@@ -1,4 +1,4 @@
-# 🧩 Virtual Fingertip-Controlled Puzzle Assembly Game
+# 🧩 Vision-Based Fingertip-Controlled Puzzle Assembly
 
 An interactive computer vision-based puzzle game that uses real-time hand tracking to let players drag and drop puzzle pieces using their index finger—no mouse or keyboard required. 
 
@@ -35,8 +35,8 @@ This project is built with OpenCV and `cvzone`, showcases gesture-based interact
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/virtual-drag-drop-puzzle.git
-cd virtual-drag-drop-puzzle
+git clone https://github.com/advithialva/vision-based-puzzle-control
+cd vision-based-puzzle-control
 ```
 
 ### 2. Install Dependencies
